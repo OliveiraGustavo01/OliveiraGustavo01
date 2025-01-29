@@ -17,14 +17,13 @@ Terraform Partner CHIP
 
 🚀 Skills & Interests:
 Cloud Infrastructure ☁️ | AWS | Terraform | Kubernetes | Docker
-CI/CD 🛠️ | Automation | Infrastructure as Code (IaC)
+CI/CD  | Automation | Infrastructure as Code (IaC)
 Containers 🐳 | Orchestration | Scalability | Microservices
 
 
 🔭 Current Focus:
 Enhancing containerized applications using Kubernetes.
 Building resilient and scalable cloud-native architectures.
-Improving DevOps automation pipelines with Terraform and AWS.
 
 
 Feel free to check out my projects and contributions to open-source, and don't hesitate to reach out if you're looking to collaborate or chat about DevOps, cloud technologies, or Kubernetes!
