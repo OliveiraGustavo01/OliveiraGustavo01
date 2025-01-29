@@ -7,11 +7,10 @@ Tech Lead in a fast-paced environment, guiding and mentoring a talented team of 
 Extensive experience in implementing and managing cloud architectures in both large financial institutions and e-commerce platforms in Brazil.
 
 📚 Certifications:
-AWS Certified Solutions Architect - Professional
-AWS Certified DevOps Engineer - Professional
-
-Certified Kubernetes Developer (CKAD)
-Terraform Associate
+AWS Certified Solutions Architect - Professional,
+AWS Certified DevOps Engineer - Professional,
+Certified Kubernetes Developer (CKAD),
+Terraform Associate,
 Terraform Partner CHIP 
 
 
