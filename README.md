@@ -3,7 +3,7 @@
 I'm a passionate Senior DevOps Engineer with a deep knowledge of AWS, Kubernetes, and Terraform. With over 4 AWS certifications (including the 2 Professional levels), I’m always aiming to stay ahead of the curve in the ever-evolving world of cloud infrastructure and automation.
 
 💼 Current Role:
-Tech Lead in a fast-paced environment, guiding and mentoring a talented team of DevOps engineers to deliver scalable and efficient solutions.
+DevOps Tech Lead, guiding and mentoring a talented team of DevOps engineers to deliver scalable and efficient solutions.
 Extensive experience in implementing and managing cloud architectures in both large financial institutions and e-commerce platforms in Brazil.
 
 📚 Certifications:
