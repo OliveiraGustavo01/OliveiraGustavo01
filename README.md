@@ -9,8 +9,10 @@ Extensive experience in implementing and managing cloud architectures in both la
 📚 Certifications:
 AWS Certified Solutions Architect - Professional
 AWS Certified DevOps Engineer - Professional
-Certified Kubernetes Administrator (CKA)
+
+Certified Kubernetes Developer (CKAD)
 Terraform Associate
+Terraform Partner CHIP 
 
 
 🚀 Skills & Interests:
