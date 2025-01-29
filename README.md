@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a passionate Senior DevOps Engineer with a deep knowledge of AWS, Kubernetes, and Terraform. With over 4 AWS certifications (including the 2 Professional levels), I’m always aiming to stay ahead of the curve in the ever-evolving world of cloud infrastructure and automation. Actually, I'm a DevOps Tech Lead, guiding and mentoring a talented team of DevOps engineers to deliver scalable and efficient solutions. I have extensive experience in implementing and managing cloud architectures in both large financial institutions and e-commerce platforms in Brazil.
+I'm a passionate Senior DevOps Engineer with a deep knowledge of AWS, Kubernetes, and Terraform. With over 4 AWS certifications (including the 2 Professional levels), I’m always aiming to stay ahead of the curve in the ever-evolving world of cloud infrastructure and automation. Currently, I'm a DevOps Tech Lead, guiding and mentoring a talented team of DevOps engineers to deliver scalable and efficient solutions.
 
 📚 Certifications:
 AWS Certified Solutions Architect - Professional,
